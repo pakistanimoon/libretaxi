@@ -1,6 +1,6 @@
 {
 	"select-user-type.who_you_are": "آپ کون ہیں؟ (آپ بعد میں تبدیل کر سکتے ہیں)",
-	"select-user-type.who_you_are_desc": "You must select one of these to begin with",
+	"select-user-type.who_you_are_desc": "آپ کو شروع کرنے کے لئے ان میں سے ایک کو منتخب کرنا ضروری ہے",
 	"select-user-type.driver": "Driver",
 	"select-user-type.driver_desc": "User can be either a taxi driver, or a passenger. You must select this option now.",
 	"select-user-type.passenger": "Passenger",
